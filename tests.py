@@ -1,6 +1,5 @@
 import unittest
-import ezr
-from ezr import the, DATA, csv, dot
+from ezr import the, DATA, csv
 import random
 from extend import process_data, guess
 
